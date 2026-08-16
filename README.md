@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently learning FPGA, and I will update some modules in my repositories with Verilog HDL.
+
+## Tools I Use
+- vim
+- Icarus Verilog
+
+## Repository
+- [verilog-hdl-learning](https://github.com/Bruce1and/verilog-hdl-learning)
